@@ -721,6 +721,8 @@ getPropertyArray( key : String ) : Array | TypedArray | null
 
 Returns an array of data associated with the `key` passed into the function. Returns null if the key is not in the table.
 
+word
+
 # LICENSE
 
 The software is available under the [Apache V2.0 license](LICENSE).
